@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nano Bubble</string>
+
+    <string name="login_screen"><b>Member</b> Login</string>
+    <string name="title_activity_main">Petambak</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="tingkat_keasaman">Tingkat\nKeasaman</string>
+    <string name="simpan_no_hp">Simpan No. Hp</string>
+</resources>
